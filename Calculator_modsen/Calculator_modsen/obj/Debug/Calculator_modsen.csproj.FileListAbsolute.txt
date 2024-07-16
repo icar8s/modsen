@@ -1,0 +1,45 @@
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.AssemblyReference.cache
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.g.cs
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\App.g.cs
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.cache
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.lref
+D:\modsen\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe.config
+D:\modsen\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe
+D:\modsen\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.pdb
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.baml
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.g.resources
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.Properties.Resources.resources
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.GenerateResource.cache
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.CoreCompileInputs.cache
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.exe
+D:\modsen\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.pdb
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe.config
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.pdb
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.AssemblyReference.cache
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.g.cs
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\App.g.cs
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.cache
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.lref
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.baml
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.g.resources
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.Properties.Resources.resources
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.GenerateResource.cache
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.CoreCompileInputs.cache
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.exe
+C:\Users\iljap\Downloads\Telegram Desktop\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.pdb
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe.config
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.exe
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\bin\Debug\Calculator_modsen.pdb
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.AssemblyReference.cache
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.g.cs
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\App.g.cs
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.cache
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen_MarkupCompile.lref
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\MainWindow.baml
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.g.resources
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.Properties.Resources.resources
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.GenerateResource.cache
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.csproj.CoreCompileInputs.cache
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.exe
+C:\Users\pavka\OneDrive\Рабочий стол\Calculator_modsen\Calculator_modsen\obj\Debug\Calculator_modsen.pdb
